@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GMMalasique
+- 👋 Hi, I’m Gabriel Malasique
 - 👀 I’m interested in Python-Based Program related in Well Logging and Petrophysics 
 - 🌱 I’m currently learning Python Programming
 - 📫 You may reach me through my personal email: malasique1st@gmail.com
